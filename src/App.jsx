@@ -124,7 +124,8 @@ const App = () => {
               Booster is a Rwandan music producer mixing traditional sounds with modern Afrobeat.
             </p>
             <p className="text-gray-400">
-              Known for tracks like “Inzozi” and “AMAHIRWE”.
+              Known for tracks like "Natinatina" and "TikToker", Booster is shaping the future of Rwandan music with his unique blend of genres.
+              
             </p>
           </div>
 
