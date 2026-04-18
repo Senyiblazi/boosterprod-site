@@ -36,7 +36,7 @@ const App = () => {
 
           {/* Logo (small) */}
           <h1 className="text-sm md:text-base font-bold tracking-wide">
-            Booster<span className="text-purple-400">Prod</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Booster<span className="text-purple-400"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;
           </h1>
 
@@ -74,7 +74,7 @@ const App = () => {
           <div>
             <h1 className="text-4xl md:text-6xl font-black leading-tight">
               <span className="bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">
-                BoosterProd
+                Booster
               </span>
             </h1>
 
